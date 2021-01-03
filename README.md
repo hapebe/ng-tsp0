@@ -5,14 +5,20 @@ Experimenting and learning around...
   * TypeScript
   * SVG
   * Bootstrap 4
-  * aspects of the [traveling salesman problem]((https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+  * aspects of the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5. The command was:
  `ng new ng-tsp0 --style=scss` 
 
 ## Some other things about Angular I want to remember:
 
-`ng version`
+  * `ng version`
+  * `ng serve --open`
+
+## Kudos
+
+  * https://angular.de/artikel/angular-bootstrap-scss-angular-cli/
+  * https://stackoverflow.com/questions/25582882/javascript-math-random-normal-distribution-gaussian-bell-curve
 
 
 ## Development server
