@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng-tsp0"
+  "defaultProject": "ng-tsp0",
+  "cli": {
+    "analytics": "da856ce3-0002-4caf-bc89-a8979c1099ea"
+  }
 }

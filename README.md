@@ -1,6 +1,19 @@
 # NgTsp0
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+Experimenting and learning around...
+  * Angular.io
+  * TypeScript
+  * SVG
+  * Bootstrap 4
+  * aspects of the [traveling salesman problem]((https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5. The command was:
+ `ng new ng-tsp0 --style=scss` 
+
+## Some other things about Angular I want to remember:
+
+`ng version`
+
 
 ## Development server
 
